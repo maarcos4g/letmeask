@@ -1,13 +1,16 @@
-import { initializeApp } from 'firebase/app';
+import firebase, { initializeApp } from 'firebase/app';
 
 import { getAuth } from 'firebase/auth';
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-    //your firebase project credentials
+    //your firebase config
 };
 
 const app = initializeApp(firebaseConfig);
+//firebase.initializeApp(firebaseConfig);
 
-export const auth = getAuth();
-export const database = getDatabase();
+const auth = getAuth();
+const database = getDatabase(app);
+
+export { auth, database };
