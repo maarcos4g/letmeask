@@ -37,10 +37,10 @@ $ cd letmeask
 Initialize the project
 
 ```bash
-# Instale as dependências usando:
+# Install the dependencies using:
 $ yarn
 
-# Inicie o projeto usando
+# Initialize the project using:
 $ yarn start
 ```
 
