@@ -2,7 +2,7 @@
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
 
-## 💻 Projeto
+## 💻 Project
 
 Letmeask is designed to help content creators create Q&A rooms with their followers/audience in a better organized way.
 
@@ -12,7 +12,7 @@ It was developed at the 6th edition of Rocketseat's **[NLW](https://nextlevelwee
     <img alt="Letmeask" src=".github/cover.svg" />
 </h1>
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 The following technologies were used for this project:
 
@@ -20,7 +20,7 @@ The following technologies were used for this project:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Executar o projeto
+## 🚀 Getting Started
 
 In a terminal, clone the project using the code below:
 
@@ -54,9 +54,6 @@ The layout was developed by Rocketseat itself and can be viewed by the link belo
 
 But to access, you need to have an account on [Figma](https://figma.com/).
 
-<div style="display: flex; align-items: center; margin-top: 30px">
+---
 
-<img src="https://github.com/marcosp-aulo.png" alt="Marcos Paulo" width="50" style="border-radius: 50%; margin-right: 20px;" />
-
-### Marcos Paulo 💙
-</div>
+Made by Marcos Paulo 💙
